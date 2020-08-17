@@ -1,0 +1,22 @@
+.hidden {
+  display: none;
+}
+
+.color-sample {
+  width: 50px;
+  height: 50px;
+  width: 100%;
+  margin: 0px auto;
+  background-color: #a5a5a5;
+}
+
+.canvas {
+  cursor: crosshair
+}
+
+.card {
+  margin-bottom: 1em;
+}
+.card p {
+  margin: 0;
+}
